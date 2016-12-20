@@ -1,0 +1,13 @@
+C:\Users\Scott\Documents\School Work\Database\Lab9\Lab9\Lab9\bin\Debug\Lab9.exe.config
+C:\Users\Scott\Documents\School Work\Database\Lab9\Lab9\Lab9\obj\Debug\Lab9.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Documents\School Work\Database\Lab9\Lab9\Lab9\bin\Debug\Lab9.exe
+C:\Users\Scott\Documents\School Work\Database\Lab9\Lab9\Lab9\bin\Debug\Lab9.pdb
+C:\Users\Scott\Documents\School Work\Database\Lab9\Lab9\Lab9\bin\Debug\ServiceStack.Common.dll
+C:\Users\Scott\Documents\School Work\Database\Lab9\Lab9\Lab9\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\Scott\Documents\School Work\Database\Lab9\Lab9\Lab9\bin\Debug\ServiceStack.Redis.dll
+C:\Users\Scott\Documents\School Work\Database\Lab9\Lab9\Lab9\bin\Debug\ServiceStack.Text.dll
+C:\Users\Scott\Documents\School Work\Database\Lab9\Lab9\Lab9\bin\Debug\ServiceStack.Common.xml
+C:\Users\Scott\Documents\School Work\Database\Lab9\Lab9\Lab9\bin\Debug\ServiceStack.Redis.xml
+C:\Users\Scott\Documents\School Work\Database\Lab9\Lab9\Lab9\bin\Debug\ServiceStack.Text.xml
+C:\Users\Scott\Documents\School Work\Database\Lab9\Lab9\Lab9\obj\Debug\Lab9.exe
+C:\Users\Scott\Documents\School Work\Database\Lab9\Lab9\Lab9\obj\Debug\Lab9.pdb
